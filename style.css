@@ -1,0 +1,17 @@
+
+body {
+	background-image: url(purpleflower.jpg); 
+	background-size: cover; 
+	background-repeat: no-repeat;
+}
+
+
+h1 {
+	color:#004400; 
+	text-align: center; 
+	border: 5px solid purple;
+	cursor: pointer;
+}
+
+p {color: purple;
+}
